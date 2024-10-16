@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'feedback_service.dart';
-import 'feedback.dart';
+import 'models/feedback.dart';
+import 'services/feedback-service.dart';
 
 void main() {
   runApp(MyApp());
